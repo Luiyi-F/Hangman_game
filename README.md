@@ -8,4 +8,4 @@ This is a simple project of the hangman game with error mangement
 
 ## Author
 
-* Luiyi Hurtado
+* Luiyi Hurtado - [Luiyi](https://github.com/Luiyi-F)
